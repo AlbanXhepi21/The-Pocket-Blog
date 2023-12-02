@@ -22,7 +22,7 @@ A straightforward React application for managing a basic blog. This minimalistic
 
 1. Clone the repository.
 2. Install dependencies using `npm install`.
-3. Run the application with `npm start`.
+3. Run the application with `npm run start`.
 4. Run `npx json-server /db.json --port 8000`
 5. Open your browser and navigate to `http://localhost:3000`.
 
